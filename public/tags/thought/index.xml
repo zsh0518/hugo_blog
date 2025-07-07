@@ -1,0 +1,19 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes"?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>Thought on 独立开发张二狗</title>
+    <link>http://localhost:1313/tags/thought/</link>
+    <description>Recent content in Thought on 独立开发张二狗</description>
+    <generator>Hugo</generator>
+    <language>en-us</language>
+    <lastBuildDate>Mon, 07 Jul 2025 14:26:24 +0800</lastBuildDate>
+    <atom:link href="http://localhost:1313/tags/thought/index.xml" rel="self" type="application/rss+xml" />
+    <item>
+      <title>为什么要辞职</title>
+      <link>http://localhost:1313/posts/why-resing/</link>
+      <pubDate>Mon, 07 Jul 2025 14:26:24 +0800</pubDate>
+      <guid>http://localhost:1313/posts/why-resing/</guid>
+      <description>&lt;p&gt;显示出来&lt;/p&gt;</description>
+    </item>
+  </channel>
+</rss>

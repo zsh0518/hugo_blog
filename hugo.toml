@@ -1,0 +1,21 @@
+baseURL = 'https://example.org/'
+languageCode = 'en-us'
+title = '独立开发张二狗'
+theme = 'yinyang'
+
+[params]
+headTitle = "独立开发张二狗"
+mainSections = ["posts"]
+disqus = 'indiecoder-me'
+
+[[params.socials]]
+name = "Follow"
+link = "https://x.com"
+
+[[params.socials]]
+name = "About Me"
+link = "/about"
+
+[services]
+  [services.disqus]
+    shortname = 'indiecoder-me'
